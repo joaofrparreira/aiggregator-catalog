@@ -6,6 +6,7 @@
 ### Categories
 - [AI Platforms](#ai-platforms)
 - [JavaScript Frameworks](#javascript-frameworks)
+- [Workflow Automation Tools](#workflow-automation-tools)
 <!-- CATEGORY ANCHORS END -->
 
 ### AI Platforms
@@ -13,3 +14,6 @@
 
 ### JavaScript Frameworks
 - [React](https://react.dev): React is a JavaScript library for building user interfaces using components, enabling developers to create web and native apps efficiently. It supports interactivity, integrates with frameworks like Next.js, and fosters a global community. React's architecture allows seamless data fetching and rendering across platforms, enhancing user experience.
+
+### Workflow Automation Tools
+- [n8n.io](https://n8n.io): n8n.io offers a versatile AI workflow automation platform for technical teams, enabling custom agent creation with code or drag-and-drop interfaces. It supports extensive integrations, self-hosting, and cloud options, enhancing IT operations, security, CRM, and sales processes for improved efficiency and collaboration.
