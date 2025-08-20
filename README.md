@@ -2,11 +2,12 @@
 
 ## Table of Contents
 
-<!-- CATEGORY ANCHORS START -->
-### Categories
+- [Workflow Automation Platforms](#workflow-automation-platforms)
 - [AI Platforms](#ai-platforms)
 - [JavaScript Frameworks](#javascript-frameworks)
-<!-- CATEGORY ANCHORS END -->
+
+### Workflow Automation Platforms
+- [n8n](https://n8n.io/): n8n.io provides a flexible AI workflow automation platform allowing technical teams to build multi-step agents, integrate apps, and automate processes using both code and drag-and-drop interfaces. It supports self-hosting for data protection and offers over 500 integrations, helping businesses optimize efficiency and enable seamless automation.
 
 ### AI Platforms
 - [i10X](https://i10x.ai/): i10X is an AI marketplace offering access to over 500 specialized AI agents and top models for diverse tasks, including creativity, marketing, design, and productivity. It provides these tools at a competitive subscription rate, ensuring high-quality performance with expert-designed functionalities for various applications.
